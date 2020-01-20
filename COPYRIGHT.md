@@ -6,7 +6,7 @@ Unauthorized copying of any file in codebase, via any medium is strictly prohibi
 
 Proprietary and confidential
 
-Written by David Cohen <dcohen18@gmail.com>, 2019
+Written by David Cohen <dcohen18@gmail.com>, 2020
 
 ## Previous Forks
 

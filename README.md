@@ -9,7 +9,7 @@
 - [Rhythm Generators](docs/rhythm.md)
 - [Chord Progression Generators](docs/chord-progression.md)
 
-## Features
+## Overview
 
 Generate unlimited unique melodies, rhythms, and chord progressions with easily changed parameters including tonality, rhythm, and interval jumps.
 
@@ -44,9 +44,11 @@ The aesthetic motivation behind this project is to break free of existing patter
 - [Random Melody Generator - Overview / New Look - YouTube](https://www.youtube.com/watch?v=D46ujdZg4o0)
 - [Random Melody Generator - Tutorial - YouTube](https://www.youtube.com/watch?v=ygfC9vkTKPw&t=1s)
 
-## Contact Me
+## Contact
 
-[Please suggest features!](https://scraggo.github.io/contact/)
+Suggest features, file support issues, or get in touch for any reason:
+
+<https://scraggo.github.io/contact/>
 
 ## Copyright
 
