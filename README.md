@@ -5,6 +5,7 @@
 ## Documentation
 
 - [About](docs/about.md)
+- [Accounts](docs/accounts.md)
 - [Melody Generators](docs/melody.md)
 - [Rhythm Generators](docs/rhythm.md)
 - [Chord Progression Generators](docs/chord-progression.md)
