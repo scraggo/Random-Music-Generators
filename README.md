@@ -45,12 +45,17 @@ The aesthetic motivation behind this project is to break free of existing patter
 - [Random Melody Generator - Overview / New Look - YouTube](https://www.youtube.com/watch?v=D46ujdZg4o0)
 - [Random Melody Generator - Tutorial - YouTube](https://www.youtube.com/watch?v=ygfC9vkTKPw&t=1s)
 
+## Posts
+
+<https://www.scraggo.com/tags/random-music-generators/>
+
 ## Contact
 
 Suggest features, file support issues, or get in touch for any reason:
 
-<https://scraggo.github.io/contact/>
+<https://www.scraggo.com/contact/>
 
-## Copyright
+## Legal
 
-See [COPYRIGHT.md](COPYRIGHT.md) for disclaimer and copyright information.
+- [COPYRIGHT.md](COPYRIGHT.md)
+- [TERMS_OF_USE.md](TERMS_OF_USE.md)
