@@ -22,11 +22,11 @@ These melodies can be previewed in-browser and downloaded as MIDI. (These MIDIs 
 
 The aesthetic motivation behind this project is to break free of existing patterns in the service of _hearing and creating something new_. The project makes heavy use of random number generating functions to defy predictibility. Machine-learning algorithms (which analyze existing music), are currently not used, and would only be added in service to randomness.
 
-2. **Use the ideas to break out of your musical ruts.** If you've been composing for a while, you may notice that you tend to write similar sounding ideas from song to song, section to section. Given the flexibility of this tool, you can decide where you'd like to inject new parameters into your compositional style.
+2\. **Use the ideas to break out of your musical ruts.** If you've been composing for a while, you may notice that you tend to write similar sounding ideas from song to song, section to section. Given the flexibility of this tool, you can decide where you'd like to inject new parameters into your compositional style.
 
-3. **Inexperienced and experienced composers alike can use this tool as a place to start for writing music in a zero-pressure way.** Having absolutely random notes generated takes away the cognitive load when you'd like to write, but don't know where to begin. If you were to import one of the MIDIs into a DAW or write one down on manuscript paper, they can be used verbatim or edited to your heart's content. Maybe you'll be inspired to come up with something amazing with randomly generated music!
+3\. **Inexperienced and experienced composers alike can use this tool as a place to start for writing music in a zero-pressure way.** Having absolutely random notes generated takes away the cognitive load when you'd like to write, but don't know where to begin. If you were to import one of the MIDIs into a DAW or write one down on manuscript paper, they can be used verbatim or edited to your heart's content. Maybe you'll be inspired to come up with something amazing with randomly generated music!
 
-4. **Find presets to generate new ideas with similar settings.** This is best explained with an example: The default melody preset is a mid-range, generic set of notes. If you were to change 'Tonality Options' to 'Chromatic', 'Note Durations' to 'Sixteenth Note', 'Note Range' to 'G2 G4', 'No of Notes' to 13, 14, 15, or 16, you can instantly generate as many creepy, cave, video-gamey boss music ideas as you wish.
+4\. **Find presets to generate new ideas with similar settings.** This is best explained with an example: The default melody preset is a mid-range, generic set of notes. If you were to change 'Tonality Options' to 'Chromatic', 'Note Durations' to 'Sixteenth Note', 'Note Range' to 'G2 G4', 'No of Notes' to 13, 14, 15, or 16, you can instantly generate as many creepy, cave, video-gamey boss music ideas as you wish.
 
 ## Technology
 
@@ -48,6 +48,10 @@ The aesthetic motivation behind this project is to break free of existing patter
 ## Posts
 
 <https://www.scraggo.com/tags/random-music-generators/>
+
+Community Posts:
+
+- [Random Music Generators is great for ear training - Vinnie Classroom](https://www.vinnieclassroom.com/2022/02/27/random-music-note-generator/)
 
 ## Contact
 
