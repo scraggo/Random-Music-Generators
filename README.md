@@ -1,6 +1,6 @@
 # Random-Music-Generators
 
-<https://random-music-generators.herokuapp.com>
+<https://random-music-generators.onrender.com>
 
 ## Documentation
 
