@@ -18,7 +18,7 @@ These melodies can be previewed in-browser and downloaded as MIDI. (These MIDIs 
 
 ### Philosophy
 
-1. **Random is better than patterned.** The goal of this project is to create **random** music. The sounds created are often off-kilter and "computery", but creating "normal" sounding ideas with this tool is perfectly possible and not discouraged.
+1\. **Random is better than patterned.** The goal of this project is to create **random** music. The sounds created are often off-kilter and "computery", but creating "normal" sounding ideas with this tool is perfectly possible and not discouraged.
 
 The aesthetic motivation behind this project is to break free of existing patterns in the service of _hearing and creating something new_. The project makes heavy use of random number generating functions to defy predictibility. Machine-learning algorithms (which analyze existing music), are currently not used, and would only be added in service to randomness.
 
